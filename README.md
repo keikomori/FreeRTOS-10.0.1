@@ -5,6 +5,7 @@ Este projeto foi desenvolvido no decorrer das aulas de Sistemas Embarcados com o
 Foram implementados algumas tarefas para analise do gerenciamento das tarefas pelo FreeRTOS e também implementados alguns drivers.
 
 Para o desenvolvimento do projeto utilizou-se o livro abaixo como consulta:
+
 <a href="https://www.blucher.com.br/livro/detalhes/sistemas-operacionais-de-tempo-real-e-sua-aplicacao-em-sistemas-embarcados-1493">LIVRO: Sistemas Operacionais de Tempo Real e Suas Aplicações em Sistemas Embarcados</a>
 
 ### Para quem quer entender um pouco mais como funciona minha sugestão é que se compre o livro, é um super investimento!
