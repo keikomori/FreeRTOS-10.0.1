@@ -26,7 +26,7 @@ O gerenciamento de tarefas pode ser feito de formas diferentes em outros sistema
 
 A imagem abaixo ilustra o uso do processador, por diferentes Tarefas (T1, T2 e T3), nestas três formas de gerenciamento de tarefas.
 
-<img src=”https://uploads.filipeflop.com/2019/10/Imagem3-1024x683.png”>
+<img src=”https://uploads.filipeflop.com/2019/10/Imagem3.png”>
 
 No primeiro caso, cada tarefa termina antes de iniciar a próxima. No segundo, a tarefa corrente pode abrir mão do processador antes de terminar de executar, nesse caso, a próxima tarefa assume. E no terceiro caso, o SO altera a tarefa corrente a cada período (quantum).
 
