@@ -10,3 +10,8 @@ Para o desenvolvimento do projeto utilizou-se o livro abaixo como consulta:
 
 ### Para quem quer entender um pouco mais como funciona minha sugestão é que se compre o livro, é um super investimento!
 
+***
+
+Não sabe como configurar sua máquina para rodar o projeto? Acesse:
+
+[wiki](https://github.com/keikomori/FreeRTOS-10.0.1/wiki)
